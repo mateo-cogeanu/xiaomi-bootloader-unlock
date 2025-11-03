@@ -1,2 +1,2 @@
-# How to unlock the xiaomi bootloader
+# How to unlock the Xiaomi bootloader
 
