@@ -31,9 +31,23 @@ Python3 might be pre-installed on your system, but if not here is the command
 sudo apt install python3
 ```
 
+## Main Setup
+
+install `pyautogui` and `ntplib`
+
+```bash
+pip3 install pyautogui ntplib
+```
+
+run `scrcpy`
+
+on the phone navigate to xiaomi community 
 ## WIP
+
 
 # CREDITS:
 scrcpy: https://github.com/Genymobile/scrcpy
 
 python script: https://www.reddit.com/r/Android/comments/1mgn0yj/xiaomis_bootloader_unlock_system_is_broken_heres/
+
+I Do **NOT** own any of the files included in this repository and do **NOT** take credit
