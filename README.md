@@ -9,13 +9,13 @@
 ## Computer side setup
 
 ### Windows setup
-Go to https://www.python.org/
+Go to [python.org](https://python.org/)
 press downloads and then download Python.
 and then Download Windows installer (64-bit) or Download Windows installer (32-bit) **depending on your system**
 double-click the `.exe` file and proceed with the installation but make sure you **press add to path**
 
 ### MacOS setup
-install homebrew https://brew.sh/ and the instructions are very straight-foward
+install homebrew [brew.sh](https://brew.sh/) and the instructions are very straight-foward
 then install python3 with
 
 ```bash
