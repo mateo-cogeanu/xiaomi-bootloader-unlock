@@ -64,7 +64,8 @@ Copyright (C) 2018-2025 Romain Vimont
 Licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
 ### Inspired by a community Python script originally shared by [u/EstimateMuted4573](https://www.reddit.com/r/Android/comments/1mgn0yj/xiaomis_bootloader_unlock_system_is_broken_heres/) on Reddit.
-Modified and extended by Mateo Cogeanu for automation purposes.
+Modified and extended by [Mateo Cogeanu](https://github.com/mateo-cogeanu) for automation purposes.
+
 
 
 I do **NOT** own `scrcpy` and do **NOT** take credit for the original work.                    
