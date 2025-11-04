@@ -68,3 +68,10 @@ Modified and extended by Mateo Cogeanu.
 
 I do **NOT** own `scrcpy` and do **NOT** take credit for the original work.                    
 All rights remain with the original author.
+
+Inspired by a community Python script originally shared by u/EstimateMuted4573
+ on Reddit.
+Modified and extended by YourName for automation purposes.
+
+> This repository is not affiliated with or endorsed by Genymobile or Romain Vimont.
+> All rights remain with their respective authors.
