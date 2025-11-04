@@ -15,7 +15,7 @@ and then Download Windows installer (64-bit) or Download Windows installer (32-b
 double-click the `.exe` file and proceed with the installation but make sure you **press add to path**
 
 ### MacOS setup
-Install homebrew [brew.sh](https://brew.sh/) and the instructions are very straight-foward
+Install homebrew [brew.sh](https://brew.sh/) and the instructions are very straight-foward               
 then install python3 with
 
 ```bash
