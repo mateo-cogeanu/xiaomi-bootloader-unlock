@@ -2,9 +2,9 @@
 
 ## Phone side setup
 
-1. Turn on your Xiaomi phone and open settings -> Xiaomi Account -> Add your credentials and sign in
-2. Go Back -> open settings -> About Phone -> tap OS Version untill you see "you are now a developer"
-3. Go back -> additional settings -> Developer options -> turn on OEM unlocking, turn on USB debbuging and USB debugging (Security settings)
+1. Turn on your Xiaomi phone and **open settings** -> **Xiaomi Account** -> **Add your credentials and sign in**
+2. **Go Back** -> **open settings** -> **About Phone** -> **tap OS Version untill you see "you are now a developer"**
+3. **Go back** -> **additional settings** -> **Developer options** -> **turn on OEM unlocking, turn on USB debbuging and USB debugging (Security settings)**
 
 ## Computer side setup
 
@@ -61,7 +61,7 @@ In your text edidor/code editor open `timed-click.py` and at line `21` change th
 
 Copyright (C) 2018 Genymobile                                                    
 Copyright (C) 2018-2025 Romain Vimont                                          
-Licensed under the [Apache License, Version 2.0](ttps://www.apache.org/licenses/LICENSE-2.0)
+Licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
 ### [Original Python script](https://www.reddit.com/r/Android/comments/1mgn0yj/xiaomis_bootloader_unlock_system_is_broken_heres/) from `u/EstimateMuted4573` on Reddit
 
