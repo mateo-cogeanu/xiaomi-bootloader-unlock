@@ -57,7 +57,7 @@ In your text edidor/code editor open `timed-click.py` and at line `21` change th
 
 # CREDITS:
 
-### [scrcpy](https:/github.com/Genymobile/scrcpy/)
+### [scrcpy](https:/Genymobile/scrcpy/)
 
 Copyright (C) 2018 Genymobile                                                    
 Copyright (C) 2018-2025 Romain Vimont                                          
