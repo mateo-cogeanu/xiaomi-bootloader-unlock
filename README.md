@@ -63,7 +63,7 @@ Copyright (C) 2018 Genymobile
 Copyright (C) 2018-2025 Romain Vimont                                          
 Licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 
-### [Inspired from this Python script:](https://www.reddit.com/r/Android/comments/1mgn0yj/xiaomis_bootloader_unlock_system_is_broken_heres/) from `u/EstimateMuted4573` on Reddit
+### [Inspired from this Python script](https://www.reddit.com/r/Android/comments/1mgn0yj/xiaomis_bootloader_unlock_system_is_broken_heres/) from `u/EstimateMuted4573` on Reddit
 Modified and extended by Mateo Cogeanu.
 
 I do **NOT** own `scrcpy` and do **NOT** take credit for the original work.                    
