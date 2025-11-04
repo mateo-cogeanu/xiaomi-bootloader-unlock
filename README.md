@@ -58,6 +58,8 @@ In your text edidor/code editor open `timed-click.py` and at line `21` change th
 # CREDITS:
 
 ### [scrcpy](https:/github.com/Genymobile/scrcpy/)
+Copyright (C) 2018 Genymobile
+Copyright (C) 2018-2025 Romain Vimont
 
 ### [Original Python script](https://www.reddit.com/r/Android/comments/1mgn0yj/xiaomis_bootloader_unlock_system_is_broken_heres/)
 
