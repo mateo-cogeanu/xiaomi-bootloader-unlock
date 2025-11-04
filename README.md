@@ -66,5 +66,5 @@ Licensed under the [Apache License, Version 2.0](ttps://www.apache.org/licenses/
 
 ### [Original Python script](https://www.reddit.com/r/Android/comments/1mgn0yj/xiaomis_bootloader_unlock_system_is_broken_heres/) from `u/EstimateMuted4573` on Reddit
 
-I do **NOT** own any of the files included in this repository and do **NOT** take credit for the original work.
+I do **NOT** own any of the files included in this repository and do **NOT** take credit for the original work.                    
 All rights remain with the original authors.
