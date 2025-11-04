@@ -15,7 +15,7 @@ and then Download Windows installer (64-bit) or Download Windows installer (32-b
 double-click the `.exe` file and proceed with the installation but make sure you **press add to path**
 
 ### MacOS setup
-install homebrew [brew.sh](https://brew.sh/) and the instructions are very straight-foward
+Install homebrew [brew.sh](https://brew.sh/) and the instructions are very straight-foward
 then install python3 with
 
 ```bash
@@ -33,22 +33,31 @@ sudo apt install python3
 
 ## Main Setup
 
-install `pyautogui` and `ntplib`
+Install requirements
 
 ```bash
 pip3 install pyautogui ntplib
 ```
 
-run `scrcpy`
+Download `scrcpy` for your OS from this repository or from the original [source](https:/github.com/Genymobile/scrcpy/releases)
 
-on the phone navigate to xiaomi community 
-## WIP
+Plug your phone into your PC; and if you are on macOS press `Allow`
+On the phone press `allow`
+
+Open `scrcpy` on your PC and if you see your phones screen `scrcpy` is ready!
+
+Download the Python script named `timed-click.py`
+
+In your text edidor/code editor open `timed-click.py` and at line `21` change the time to your local time when it is 23:59 and 59 seconds in china you can use [timeanddate.com](https://www.timeanddate.com/worldclock/converter.html?iso=20251104T155900&p1=33) and just add your country and change the code
+
+### WIP
+
 
 
 # CREDITS:
 
-## [scrcpy](https:/github.com/Genymobile/scrcpy/)
+### [scrcpy](https:/github.com/Genymobile/scrcpy/)
 
-## [Python script](https://www.reddit.com/r/Android/comments/1mgn0yj/xiaomis_bootloader_unlock_system_is_broken_heres/)
+### [Original Python script](https://www.reddit.com/r/Android/comments/1mgn0yj/xiaomis_bootloader_unlock_system_is_broken_heres/)
 
 I Do **NOT** own any of the files included in this repository and do **NOT** take credit
