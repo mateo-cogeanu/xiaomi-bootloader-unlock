@@ -39,7 +39,7 @@ Install requirements
 pip3 install pyautogui ntplib
 ```
 
-Download `scrcpy` for your OS from this repository or from the original [source](https:/github.com/Genymobile/scrcpy/releases)
+Download `scrcpy` for your OS from this repository or from the original [source](https:/Genymobile/scrcpy/releases)
 
 Plug your phone into your PC; and if you are on macOS press `Allow`
 On the phone press `allow`
